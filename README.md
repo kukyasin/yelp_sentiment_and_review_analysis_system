@@ -55,5 +55,3 @@ If you have any questions or suggestions, please feel free to contact me at: [ya
 ### Customization
 - Update the **Yasin Kuk** and **yasin7kuk@gmail.com** sections with your actual details.
 - Feel free to add more usage examples or additional project details as necessary.
-
-This README provides a clear and professional overview of your project, making it easier for users to understand and navigate. If you need further assistance or modifications, feel free to ask!
