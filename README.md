@@ -52,6 +52,6 @@ This project is licensed under the MIT License. For more information, please ref
 ## Contact
 If you have any questions or suggestions, please feel free to contact me at: [yasin7kuk@gmail.com]
 
-### Customization
+## Customization
 - Update the **Yasin Kuk** and **yasin7kuk@gmail.com** sections with your actual details.
 - Feel free to add more usage examples or additional project details as necessary.
